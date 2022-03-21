@@ -4,4 +4,4 @@
 
 # Requirements
 * Internet Access
-* A [Replit Account](https://replit.com)
+* [Replit Account](https://replit.com)
