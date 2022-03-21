@@ -2,12 +2,12 @@
 *Do you ever just get tired of your school blocking your favorite websites well this code is the solution for you, today I will like to show you how to setup and browse your favorite websites with ease*
 *This tutorial is very simple to follow ;)*
 
-# 📝 Requirements
+## 📝 Requirements
 * Internet Access
 * [Replit Account](https://replit.com/signup)
 * Phone / Computer (Computer Recommended)
 
-# 💪 Setup
+## 💪 Setup
 * Go to [Replit](https://replit.com)
 * Create a new repl and choose **Python** as the programming language
 * Once the new repl is created you should see a `main.py` file
