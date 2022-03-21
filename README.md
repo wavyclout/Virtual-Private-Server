@@ -4,7 +4,7 @@
 
 # Requirements
 * Internet Access
-* [Replit Account](https://replit.com)
+* [Replit Account](https://replit.com/signup)
 
 # Setup
 * Go to [Replit](https://replit.com)
