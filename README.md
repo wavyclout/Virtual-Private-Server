@@ -5,6 +5,7 @@
 # 📝 Requirements
 * Internet Access
 * [Replit Account](https://replit.com/signup)
+* Phone / Computer (Computer Recommended)
 
 # 💪 Setup
 * Go to [Replit](https://replit.com)
