@@ -8,7 +8,7 @@
 
 # 💪 Setup
 * Go to [Replit](https://replit.com)
-* Create a new repl and choose python as the programming language
+* Create a new repl and choose **Python** as the programming language
 * Once the new repl is created you should see a `main.py` file
 * Open the `main.py` file don't worry about the `poetry.lock` and `pyproject.toml` files
 * Once you are in the `main.py` file paste the following code in
